@@ -1,5 +1,5 @@
 {
-  "name": "propose-to-safe",
+  "name": "misc-eth-tools",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
